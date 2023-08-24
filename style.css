@@ -1,0 +1,20 @@
+*{
+    font-family: 'Bricolage Grotesque', sans-serif;
+    background-image: url(https://e0.pxfuel.com/wallpapers/261/680/desktop-wallpaper-minimalist-light-minimalist.jpg);
+}
+#text1
+{
+    background-color: rgba(191, 0, 121, 0.3);
+    text-align: center;
+    text-orientation: sideways;
+    padding-left: 10px;
+}
+
+p{
+    text-align: left;
+    background-color: cadetblue;
+   
+}
+#ol{
+    background-color: darkcyan;
+    }
